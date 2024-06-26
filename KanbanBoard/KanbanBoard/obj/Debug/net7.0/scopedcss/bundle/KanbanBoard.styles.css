@@ -1,0 +1,20 @@
+/* /Shared/Dropzone.razor.rz.scp.css */
+.draggable[b-fpxj9nmtr4] {
+    margin-bottom: 10px;
+    padding: 10px 25px;
+    border: 1px solid #424d5c;
+    background: #ff6a00;
+    color: #ffffff;
+    border-radius: 5px;
+    cursor: grab;
+}
+
+.draggable:active[b-fpxj9nmtr4] {
+    cursor: grabbing;
+}
+
+.dropzone[b-fpxj9nmtr4] {
+    padding: .75rem;
+    border: 2px solid black;
+    min-height: 20rem;
+}

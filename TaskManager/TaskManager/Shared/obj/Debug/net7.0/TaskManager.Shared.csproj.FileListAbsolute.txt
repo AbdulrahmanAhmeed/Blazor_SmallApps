@@ -1,0 +1,11 @@
+E:\.net\TaskManager\TaskManager\Shared\bin\Debug\net7.0\TaskManager.Shared.deps.json
+E:\.net\TaskManager\TaskManager\Shared\bin\Debug\net7.0\TaskManager.Shared.dll
+E:\.net\TaskManager\TaskManager\Shared\bin\Debug\net7.0\TaskManager.Shared.pdb
+E:\.net\TaskManager\TaskManager\Shared\obj\Debug\net7.0\TaskManager.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\TaskManager\TaskManager\Shared\obj\Debug\net7.0\TaskManager.Shared.AssemblyInfoInputs.cache
+E:\.net\TaskManager\TaskManager\Shared\obj\Debug\net7.0\TaskManager.Shared.AssemblyInfo.cs
+E:\.net\TaskManager\TaskManager\Shared\obj\Debug\net7.0\TaskManager.Shared.csproj.CoreCompileInputs.cache
+E:\.net\TaskManager\TaskManager\Shared\obj\Debug\net7.0\TaskManager.Shared.dll
+E:\.net\TaskManager\TaskManager\Shared\obj\Debug\net7.0\refint\TaskManager.Shared.dll
+E:\.net\TaskManager\TaskManager\Shared\obj\Debug\net7.0\TaskManager.Shared.pdb
+E:\.net\TaskManager\TaskManager\Shared\obj\Debug\net7.0\ref\TaskManager.Shared.dll

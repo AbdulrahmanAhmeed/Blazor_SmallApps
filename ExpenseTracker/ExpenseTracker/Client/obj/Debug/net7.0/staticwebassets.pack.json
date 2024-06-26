@@ -1,0 +1,165 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\obj\\Debug\\net7.0\\compressed\\n549ttkssy.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\css\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ExpenseTracker.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ExpenseTracker.Client.props",
+      "PackagePath": "build\\ExpenseTracker.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ExpenseTracker.Client.props",
+      "PackagePath": "buildMultiTargeting\\ExpenseTracker.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ExpenseTracker.Client.props",
+      "PackagePath": "buildTransitive\\ExpenseTracker.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8j5MnrqhBppsbfuLwKwloquU9Zq91/xUI00OF7JmfpsRd4wMYm3dkjQORdSCtLlO1s55Q5tKh1Ue1zPzWLyLsA==",
+  "success": true,
+  "projectFilePath": "E:\\.net\\ExpenseTracker\\ExpenseTracker\\Shared\\ExpenseTracker.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\abdo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

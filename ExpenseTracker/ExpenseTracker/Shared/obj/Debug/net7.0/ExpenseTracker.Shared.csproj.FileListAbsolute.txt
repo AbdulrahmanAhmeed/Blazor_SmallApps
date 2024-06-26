@@ -1,0 +1,11 @@
+E:\.net\ExpenseTracker\ExpenseTracker\Shared\bin\Debug\net7.0\ExpenseTracker.Shared.deps.json
+E:\.net\ExpenseTracker\ExpenseTracker\Shared\bin\Debug\net7.0\ExpenseTracker.Shared.dll
+E:\.net\ExpenseTracker\ExpenseTracker\Shared\bin\Debug\net7.0\ExpenseTracker.Shared.pdb
+E:\.net\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net7.0\ExpenseTracker.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net7.0\ExpenseTracker.Shared.AssemblyInfoInputs.cache
+E:\.net\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net7.0\ExpenseTracker.Shared.AssemblyInfo.cs
+E:\.net\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net7.0\ExpenseTracker.Shared.csproj.CoreCompileInputs.cache
+E:\.net\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net7.0\ExpenseTracker.Shared.dll
+E:\.net\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net7.0\refint\ExpenseTracker.Shared.dll
+E:\.net\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net7.0\ExpenseTracker.Shared.pdb
+E:\.net\ExpenseTracker\ExpenseTracker\Shared\obj\Debug\net7.0\ref\ExpenseTracker.Shared.dll
